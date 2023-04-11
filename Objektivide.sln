@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Objektivide", "Objektivide.pyproj", "{45EEFB55-BC36-4A3F-9B66-816B4BEF5065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EEFB55-BC36-4A3F-9B66-816B4BEF5065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EEFB55-BC36-4A3F-9B66-816B4BEF5065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E9DB8F-F8F5-4B32-9A27-543786E1C0B4}
+	EndGlobalSection
+EndGlobal
